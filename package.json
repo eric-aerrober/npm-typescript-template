@@ -14,7 +14,8 @@
     "semantic-release": "semantic-release",
     "test:watch": "jest --watch",
     "test": "jest --coverage",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "docs": "docsify serve ./docs"
   },
   "repository": {
     "type": "git",
