@@ -15,7 +15,3 @@ Support for the following:
 - MIT License
 - Docsify for documentation through github pages
 
-
-## Documentation
-
-[Full Documentation](https://eric-aerrober.github.io/npm-typescript-template/#/)
